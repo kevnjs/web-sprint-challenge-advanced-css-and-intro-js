@@ -232,7 +232,7 @@ function getArtistByIndex(array, index) {
   return `the artist at index ${index} is ${array[index].name}`;
 }
 
-console.log(getArtistByIndex(artists, 0))
+//console.log(getArtistByIndex(artists, 0))
 
 
 
