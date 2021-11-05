@@ -1,6 +1,6 @@
 const artists = [
   {
-    "id": 0,
+    "id": 0, //
     "name": "Amedeo Modigliani",
     "years": "1884 - 1920",
     "genre": "Expressionism",
@@ -10,7 +10,7 @@ const artists = [
     "paintings": 193
   },
   {
-    "id": 1,
+    "id": 1, //
     "name": "Vasiliy Kandinskiy",
     "years": "1866 - 1944",
     "genre": "Expressionism,Abstractionism",
@@ -20,7 +20,7 @@ const artists = [
     "paintings": 88
   },
   {
-    "id": 2,
+    "id": 2, //
     "name": "Diego Rivera",
     "years": "1886 - 1957",
     "genre": "Social Realism,Muralism",
@@ -30,7 +30,7 @@ const artists = [
     "paintings": 70
   },
   {
-    "id": 3,
+    "id": 3, 
     "name": "Claude Monet",
     "years": "1840 - 1926",
     "genre": "Impressionism",
@@ -40,7 +40,7 @@ const artists = [
     "paintings": 73
   },
   {
-    "id": 4,
+    "id": 4, //
     "name": "Rene Magritte",
     "years": "1898 - 1967",
     "genre": "Surrealism,Impressionism",
@@ -50,7 +50,7 @@ const artists = [
     "paintings": 194
   },
   {
-    "id": 5,
+    "id": 5, //
     "name": "Salvador Dali",
     "years": "1904 - 1989",
     "genre": "Surrealism",
