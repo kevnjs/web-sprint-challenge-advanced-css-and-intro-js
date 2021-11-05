@@ -27,7 +27,6 @@ body{
     font-size:1.6rem;
     line-height: 1.5;
     font-family: 'Raleway', sans-serif;	
-    border: 1px solid grey;
 }
 h1, p, .name, .bio {	
     font-family: 'Raleway', sans-serif;	
